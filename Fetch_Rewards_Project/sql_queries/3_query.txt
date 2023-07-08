@@ -1,1 +1,0 @@
-This query selects the rewards_receipt_status and calculates the average total_spent for each status ('Accepted' and 'Rejected') by grouping the results by rewards_receipt_status. The output will show the average spend for both 'Accepted' and 'Rejected' statuses, allowing you to compare which one is greater.
