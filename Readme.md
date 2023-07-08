@@ -16,36 +16,36 @@ This repository contains the solution for the Fetch Rewards Coding Exercise for 
   
 The structured relational data model diagram can be found in the `data_model` folder. The diagram shows the tables, fields, and joinable keys for the data warehouse.  
   
-[data_model_diagram.png](data_model/data_model_diagram.png)  
+[data_model_diagram.png](FetchRewardsProject/data_model/data_model_diagram.png)  
   
 ## SQL Queries  
   
 The SQL queries for answering the predetermined business questions can be found in the `sql_queries` folder. The SQL dialect used is [mention the SQL dialect you used].  
   
-1. [top_5_brands_by_receipts.sql](sql_queries/top_5_brands_by_receipts.sql)  
-2. [ranking_comparison.sql](sql_queries/ranking_comparison.sql)  
-3. [average_spend_accepted_rejected.sql](sql_queries/average_spend_accepted_rejected.sql)  
-4. [total_items_accepted_rejected.sql](sql_queries/total_items_accepted_rejected.sql)  
-5. [most_spend_brand_recent_users.sql](sql_queries/most_spend_brand_recent_users.sql)  
-6. [most_transactions_brand_recent_users.sql](sql_queries/most_transactions_brand_recent_users.sql)  
+1. [top_5_brands_by_receipts.sql](FetchRewardsProject/sql_queries/top_5_brands_by_receipts.sql)  
+2. [ranking_comparison.sql](FetchRewardsProject/sql_queries/ranking_comparison.sql)  
+3. [average_spend_accepted_rejected.sql](FetchRewardsProject/sql_queries/average_spend_accepted_rejected.sql)  
+4. [total_items_accepted_rejected.sql](FetchRewardsProject/sql_queries/total_items_accepted_rejected.sql)  
+5. [most_spend_brand_recent_users.sql](FetchRewardsProject/sql_queries/most_spend_brand_recent_users.sql)  
+6. [most_transactions_brand_recent_users.sql](FetchRewardsProject/sql_queries/most_transactions_brand_recent_users.sql)  
   
 ## Data Quality Issues  
   
 The code for evaluating data quality issues can be found in the `data_quality` folder. The programming language used is Python.
   
-1. [data_quality_evaluation.py](data_quality/data_quality_evaluation.py)  
+1. [data_quality_evaluation.py](FetchRewardsProject/data_quality/data_quality_evaluation.py)  
 
  Data Quality Issues in Brands, Receipts and Users can also be found in `data_quality`
 
- 1. [Brands_data_quality_report.txt](data_quality/Brands_data_quality_report.txt)  
- 2. [Receipts_data_quality_report.txt](data_quality/Receipts_data_quality_report.txt)  
- 3. [Users_data_quality_report.txt](data_quality/Users_data_quality_report.txt)  
+ 1. [Brands_data_quality_report.txt](FetchRewardsProject/data_quality/Brands_data_quality_report.txt)  
+ 2. [Receipts_data_quality_report.txt](FetchRewardsProject/data_quality/Receipts_data_quality_report.txt)  
+ 3. [Users_data_quality_report.txt](FetchRewardsProject/data_quality/Users_data_quality_report.txt)  
   
 ## Communication with Stakeholders  
   
 The email or slack message for communicating with stakeholders can be found in the `communication` folder.  
   
-1. [stakeholder_communication.md](communication/stakeholder_communication.md)  
+1. [stakeholder_communication.md](FetchRewardsProject/communication/stakeholder_communication.md)  
   
 ## License  
   
