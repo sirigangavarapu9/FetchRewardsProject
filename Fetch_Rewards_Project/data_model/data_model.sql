@@ -1,4 +1,4 @@
-CREATE TABLE "brands" (
+   CREATE TABLE "brands" (
   "id" varchar PRIMARY KEY,
   "barcode" varchar,
   "category" varchar,
@@ -15,7 +15,7 @@ CREATE TABLE "cpg" (
 );
 
 CREATE TABLE "receipts" (
-  "id" varchar PRIMARY KEY,
+  "receipt_id" varchar PRIMARY KEY,
   "bonusPointsEarned" int,
   "bonusPointsEarnedReason" varchar,
   "createDate" timestamp,
