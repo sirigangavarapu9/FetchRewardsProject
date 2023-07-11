@@ -20,7 +20,7 @@ The structured relational data model diagram can be found in the `data_model` fo
   
 ## SQL Queries  
   
-The SQL queries for answering the predetermined business questions can be found in the `sql_queries` folder. The SQL dialect used is [mention the SQL dialect you used].  
+The SQL queries for answering the predetermined business questions can be found in the `sql_queries` folder.   
   
 1. [top_5_brands_by_receipts.sql](Fetch_Rewards_Project/sql_queries/top_5_brands_by_receipts.sql)  
 2. [ranking_comparison.sql](Fetch_Rewards_Project/sql_queries/ranking_comparison.sql)  
